@@ -1,0 +1,43 @@
++* {
+ + display: inline-block;
+ +}
+
+ .wrapper {
+     width: 1100px; 
+     display: inline-block;
+     background-color: beige;
+ }
+ +
+ +.pokeimgleft {
+ +  display: inline-block;
+ width: 200px;
+ +    
+ }
+.ContainerLeft {
+    width 1000px;
+    display: inline-block;
+}
+ +#pokemoninforight {
+ +    width: 250px;
+ +    height: 450px;
+ +    border: 50px solid blue;
+ +    display: inline-block;
+ +    top: 50px;
+ +    right: 50px;
+ +    padding: 30px 50px;
+      background-color:green;
+      
+ +}
+ +.pokemoninforight img{
+ +    display: inline-block;
+
+ +}
+ +.img {
+ +    width: 96px;
+ +    height: 96px;
+ +    display: inline-block;
+ +} 
+.pokeimg {
+    disply: inline-block;
+}
+
